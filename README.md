@@ -50,8 +50,8 @@
 
 ## Python使用示例,超简单上手
 
-- [http请求示例](./example/http_request.py)
-- [websocket请求示例](./example/websocket_request.py)
+- [http请求示例](./example/python/http_request.py)
+- [websocket请求示例](./example/python/websocket_request.py)
 
 
 
